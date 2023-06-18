@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Snake/SampleScene.unity
+    path: Assets/Scenes/Start.unity
+    guid: c85163440eb71ddd086483866df4bb89
+  - enabled: 1
+    path: Assets/Scenes/Snake.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 92aaffa8831c57724a775208c387f2e5
   m_configObjects: {}
